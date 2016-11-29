@@ -10,7 +10,7 @@ créer les dossiers avec les droits écritures :
  - wikis/
  - archives/
 
-Utiliser composer avec 'composer install --no-dev' pour ajouter les dependances
+Utiliser composer avec 'composer install --no-dev' pour ajouter les dependances (https://getcomposer.org/download/)
 
 Note
 ----
